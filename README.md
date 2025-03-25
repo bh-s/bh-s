@@ -19,8 +19,8 @@
 
 ### 📫 Let's Connect!
 - 🔗 [GitHub] ((https://github.com/bh-s)) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/samir-benhami-064397346/)) *(if you have one, add your link!)*  
-- 🌐 Portfolio:  *(if you have a portfolio site, add it!)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/samir-benhami-064397346/))    
+- 🌐 Portfolio:    
 
 ---
 

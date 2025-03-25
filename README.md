@@ -17,13 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samir&show_icons=true&theme=dark" alt="Samir's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 - 🔗 [GitHub] ((https://github.com/bh-s)) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/samir-benhami-064397346/)) *(if you have one, add your link!)*  

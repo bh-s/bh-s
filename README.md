@@ -10,9 +10,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 **Frontend Developer** specializing in **React & Tailwind css**  
-- 🎨 Passionate about **UI/UX, component-based design, and smooth user experiences**  
-- ⚡ Love working with **JavaScript, TypeScript, and modern web technologies**  
+- 🚀 **Frontend Developer** specializing in **React & Chakra Ui**  
+- ⚡ Love working with **JavaScript, and modern web technologies**  
 - 🌱 Currently learning **Next.js & performance optimization**  
 
 ---
